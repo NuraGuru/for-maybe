@@ -11,6 +11,7 @@ function App() {
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
         <p>lorem</p>
+        <p>lorem</p>
         <a
           className="App-link"
           href="https://reactjs.org"
