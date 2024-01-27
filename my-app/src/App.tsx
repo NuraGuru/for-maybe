@@ -12,6 +12,7 @@ function App() {
           </p>
           <p>lorem</p>
           <p>lorem1</p>
+          <p>lorem2</p>
           <a
               className="App-link"
               href="https://reactjs.org"
